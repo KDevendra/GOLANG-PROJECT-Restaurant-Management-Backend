@@ -1,1 +1,1 @@
-# GOLANG-PROJECT-Restaurant-Management-Backend
+# GOLANG-PROJECT Restaurant Management Backend
